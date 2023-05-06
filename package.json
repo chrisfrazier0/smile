@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "chrisfrazier0-smile",
+  "version": "0.1.0",
+  "description": "smile",
+  "author": "Chris Frazier",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisfrazier0/smile"
+  },
+  "engines": {
+    "npm": "please-use-yarn"
+  },
+  "scripts": {
+    ":dev": "http-server src"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
