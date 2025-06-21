@@ -11,7 +11,7 @@
 
 <https://smile.frazier.software> - move your mouse over the face 😬
 
-### Built With
+## Built With
 
 [![HTML][html]][html-url] &nbsp; [![CSS][css]][css-url] &nbsp; [![Javascript][javascript]][javascript-url]
 
@@ -23,7 +23,7 @@
 [linkedin-url]: https://linkedin.com/in/chrisfrazier0
 [html]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white
 [css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
